@@ -1,0 +1,1074 @@
+Archive member included because of file (symbol)
+
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_mulsi3.o)
+                              DualCubeToUSB.o (__mulsi3)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_divmodhi4.o)
+                              Controller Code/gamecube.o (__divmodhi4)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_divmodsi4.o)
+                              DualCubeToUSB.o (__divmodsi4)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_negsi2.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_divmodsi4.o) (__negsi2)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_exit.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o (exit)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_copy_data.o)
+                              Controller Code/gamecube.o (__do_copy_data)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_clear_bss.o)
+                              Controller Code/gamecube.o (__do_clear_bss)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ctors.o)
+                              DualCubeToUSB.o (__do_global_ctors)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_umulhisi3.o)
+                              DualCubeToUSB.o (__umulhisi3)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_usmulhisi3.o)
+                              USB Code/GamepadHID.o (__usmulhisi3)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_muluhisi3.o)
+                              DualCubeToUSB.o (__muluhisi3)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ashldi3.o)
+                              USB Code/GamepadHID.o (__ashldi3)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodhi4.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodsi4.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_divmodsi4.o) (__udivmodsi4)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_tablejump.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ctors.o) (__tablejump__)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libc.a(memcmp.o)
+                              Controller Code/gamecube.o (memcmp)
+
+Allocating common symbols
+Common symbol       size              file
+
+gcn64_workbuf       0x104             Controller Code/gcn64_protocol.o
+
+Discarded input sections
+
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+ .text          0x00000000        0x0 Controller Code/gamecube.o
+ .bss           0x00000000        0x0 Controller Code/gamecube.o
+ .text.map      0x00000000       0x3a Controller Code/gamecube.o
+ .text          0x00000000        0x0 Controller Code/gcn64_protocol.o
+ .bss           0x00000000        0x0 Controller Code/gcn64_protocol.o
+ .text.gcn64_protocol_getByte
+                0x00000000       0x22 Controller Code/gcn64_protocol.o
+ .text          0x00000000        0x0 Controller Code/gcn64_protocol2.o
+ .bss           0x00000000        0x0 Controller Code/gcn64_protocol2.o
+ .text.gcn64_protocol_getByte2
+                0x00000000       0x22 Controller Code/gcn64_protocol2.o
+ .text          0x00000000        0x0 Controller Code/n64.o
+ .bss           0x00000000        0x0 Controller Code/n64.o
+ .text          0x00000000        0x0 DualCubeToUSB.o
+ .bss           0x00000000        0x0 DualCubeToUSB.o
+ .text._Z3maplllll
+                0x00000000       0x82 DualCubeToUSB.o
+ .text._Z4initv
+                0x00000000        0x4 DualCubeToUSB.o
+ .text          0x00000000        0x0 USB Code/CDC.o
+ .bss           0x00000000        0x0 USB Code/CDC.o
+ .text          0x00000000        0x0 USB Code/GamepadHID.o
+ .bss           0x00000000        0x0 USB Code/GamepadHID.o
+ .text._ZN8Gamepad_5beginEv
+                0x00000000        0x2 USB Code/GamepadHID.o
+ .text._ZN8Gamepad_3endEv
+                0x00000000        0x2 USB Code/GamepadHID.o
+ .text._ZN8Gamepad_8map8to10Ei
+                0x00000000       0x1a USB Code/GamepadHID.o
+ .text._ZN8Gamepad_3mapElllll
+                0x00000000       0x8a USB Code/GamepadHID.o
+ .text          0x00000000        0x0 USB Code/HID.o
+ .bss           0x00000000        0x0 USB Code/HID.o
+ .text          0x00000000        0x0 USB Code/USBCore.o
+ .bss           0x00000000        0x0 USB Code/USBCore.o
+ .text._Z19USBGetConfigurationv
+                0x00000000        0x6 USB Code/USBCore.o
+ .text._Z13USB_Availableh
+                0x00000000       0x12 USB Code/USBCore.o
+ .text._Z8USB_RecvhPvi
+                0x00000000       0x6a USB Code/USBCore.o
+ .text._Z8USB_Recvh
+                0x00000000       0x2e USB Code/USBCore.o
+ .text._Z15USB_RecvControlPvi
+                0x00000000       0x28 USB Code/USBCore.o
+ .text._Z9USB_Flushh
+                0x00000000       0x14 USB Code/USBCore.o
+ .text._Z12USBConnectedv
+                0x00000000       0x1e USB Code/USBCore.o
+ .text._ZN10USBDevice_C2Ev
+                0x00000000        0x2 USB Code/USBCore.o
+ .text._ZN10USBDevice_6attachEv
+                0x00000000       0x3c USB Code/USBCore.o
+ .text._ZN10USBDevice_6detachEv
+                0x00000000        0x2 USB Code/USBCore.o
+ .text._ZN10USBDevice_10configuredEv
+                0x00000000        0xe USB Code/USBCore.o
+ .text._ZN10USBDevice_4pollEv
+                0x00000000        0x2 USB Code/USBCore.o
+ .bss.USBDevice
+                0x00000000        0x1 USB Code/USBCore.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.mul
+                0x00000000       0x20 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_mulsi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.div
+                0x00000000       0x28 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_negsi2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_negsi2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_usmulhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.mul
+                0x00000000        0xe c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_usmulhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_muluhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ashldi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ashldi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.div
+                0x00000000       0x28 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_tablejump.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_tablejump.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_tablejump.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_tablejump.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_tablejump.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_tablejump.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_tablejump.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_tablejump.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libc.a(memcmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libc.a(memcmp.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+LOAD Controller Code/gamecube.o
+LOAD Controller Code/gcn64_protocol.o
+LOAD Controller Code/gcn64_protocol2.o
+LOAD Controller Code/n64.o
+LOAD DualCubeToUSB.o
+LOAD USB Code/CDC.o
+LOAD USB Code/GamepadHID.o
+LOAD USB Code/HID.o
+LOAD USB Code/USBCore.o
+START GROUP
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a
+END GROUP
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a
+START GROUP
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libc.a
+END GROUP
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x2014
+ *(.vectors)
+ .vectors       0x00000000       0xac c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x000000ac                . = ALIGN (0x2)
+                0x000000ac                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000ac        0x0 linker stubs
+ *(.trampolines*)
+                0x000000ac                __trampolines_end = .
+ *(.progmem*)
+ .progmem.data._hidInterface2
+                0x000000ac       0x19 USB Code/HID.o
+                0x000000ac                _hidInterface2
+ .progmem.data._hidReportDescriptor2
+                0x000000c5       0x76 USB Code/HID.o
+                0x000000c5                _hidReportDescriptor2
+ .progmem.data._hidInterface
+                0x0000013b       0x19 USB Code/HID.o
+                0x0000013b                _hidInterface
+ .progmem.data._hidReportDescriptor
+                0x00000154       0x3b USB Code/HID.o
+                0x00000154                _hidReportDescriptor
+ .progmem.data._initEndpoints
+                0x0000018f        0x2 USB Code/USBCore.o
+                0x0000018f                _initEndpoints
+ .progmem.data.USB_DeviceDescriptorA
+                0x00000191       0x12 USB Code/USBCore.o
+                0x00000191                USB_DeviceDescriptorA
+ .progmem.data.USB_DeviceDescriptor
+                0x000001a3       0x12 USB Code/USBCore.o
+                0x000001a3                USB_DeviceDescriptor
+ .progmem.data.STRING_IMANUFACTURER
+                0x000001b5       0x18 USB Code/USBCore.o
+                0x000001b5                STRING_IMANUFACTURER
+ .progmem.data.STRING_IPRODUCT
+                0x000001cd       0x22 USB Code/USBCore.o
+                0x000001cd                STRING_IPRODUCT
+ .progmem.data.STRING_LANGUAGE
+                0x000001ef        0x4 USB Code/USBCore.o
+                0x000001ef                STRING_LANGUAGE
+                0x000001f4                . = ALIGN (0x2)
+ *fill*         0x000001f3        0x1 
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000001f4                __ctors_start = .
+ *(.ctors)
+ .ctors         0x000001f4        0x2 DualCubeToUSB.o
+ .ctors         0x000001f6        0x2 USB Code/GamepadHID.o
+                0x000001f8                __ctors_end = .
+                0x000001f8                __dtors_start = .
+ *(.dtors)
+                0x000001f8                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000001f8        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+                0x000001f8                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000001f8        0xc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000204       0x16 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_copy_data.o)
+                0x00000204                __do_copy_data
+ .init4         0x0000021a       0x10 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_clear_bss.o)
+                0x0000021a                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x0000022a       0x16 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ctors.o)
+                0x0000022a                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000240        0x8 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+ *(.init9)
+ *(.text)
+ .text          0x00000248        0x4 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+                0x00000248                __vector_38
+                0x00000248                __vector_22
+                0x00000248                __vector_28
+                0x00000248                __vector_1
+                0x00000248                __vector_32
+                0x00000248                __vector_34
+                0x00000248                __vector_24
+                0x00000248                __vector_12
+                0x00000248                __bad_interrupt
+                0x00000248                __vector_6
+                0x00000248                __vector_31
+                0x00000248                __vector_35
+                0x00000248                __vector_39
+                0x00000248                __vector_3
+                0x00000248                __vector_23
+                0x00000248                __vector_30
+                0x00000248                __vector_25
+                0x00000248                __vector_13
+                0x00000248                __vector_17
+                0x00000248                __vector_19
+                0x00000248                __vector_7
+                0x00000248                __vector_41
+                0x00000248                __vector_27
+                0x00000248                __vector_5
+                0x00000248                __vector_33
+                0x00000248                __vector_37
+                0x00000248                __vector_4
+                0x00000248                __vector_9
+                0x00000248                __vector_2
+                0x00000248                __vector_21
+                0x00000248                __vector_15
+                0x00000248                __vector_36
+                0x00000248                __vector_29
+                0x00000248                __vector_40
+                0x00000248                __vector_8
+                0x00000248                __vector_26
+                0x00000248                __vector_14
+                0x00000248                __vector_16
+                0x00000248                __vector_18
+                0x00000248                __vector_20
+                0x00000248                __vector_42
+                0x0000024c                . = ALIGN (0x2)
+ *(.text.*)
+ .text.gamecubeBuildReport
+                0x0000024c       0x2c Controller Code/gamecube.o
+ .text.gamecubeChanged
+                0x00000278       0x12 Controller Code/gamecube.o
+ .text.gamecubeUpdate
+                0x0000028a      0x4fe Controller Code/gamecube.o
+ .text.gamecubeProbe
+                0x00000788        0xe Controller Code/gamecube.o
+ .text.gamecubeInit
+                0x00000796       0x30 Controller Code/gamecube.o
+ .text.gamecubeGetGamepad
+                0x000007c6        0x6 Controller Code/gamecube.o
+                0x000007c6                gamecubeGetGamepad
+ .text.gcn64protocol_hwinit
+                0x000007cc        0x6 Controller Code/gcn64_protocol.o
+                0x000007cc                gcn64protocol_hwinit
+ .text.gcn64_transaction
+                0x000007d2      0x16a Controller Code/gcn64_protocol.o
+                0x000007d2                gcn64_transaction
+ .text.gcn64_detectController
+                0x0000093c       0x78 Controller Code/gcn64_protocol.o
+                0x0000093c                gcn64_detectController
+ .text.gcn64protocol_hwinit2
+                0x000009b4        0x6 Controller Code/gcn64_protocol2.o
+                0x000009b4                gcn64protocol_hwinit2
+ .text.gcn64_transaction2
+                0x000009ba      0x164 Controller Code/gcn64_protocol2.o
+                0x000009ba                gcn64_transaction2
+ .text.gcn64_detectController2
+                0x00000b1e       0x78 Controller Code/gcn64_protocol2.o
+                0x00000b1e                gcn64_detectController2
+ .text.n64BuildReport
+                0x00000b96       0x2c Controller Code/n64.o
+ .text.n64Update
+                0x00000bc2      0x218 Controller Code/n64.o
+ .text.n64Init  0x00000dda        0x6 Controller Code/n64.o
+ .text.n64Probe
+                0x00000de0       0x64 Controller Code/n64.o
+ .text.n64Changed
+                0x00000e44       0x12 Controller Code/n64.o
+ .text.n64GetGamepad
+                0x00000e56        0x6 Controller Code/n64.o
+                0x00000e56                n64GetGamepad
+ .text._Z12hardwareInitv
+                0x00000e5c        0xc DualCubeToUSB.o
+                0x00000e5c                _Z12hardwareInitv
+ .text._Z17detectControllersv
+                0x00000e68       0xd2 DualCubeToUSB.o
+                0x00000e68                _Z17detectControllersv
+ .text._Z23checkForNullControllersv
+                0x00000f3a       0x2a DualCubeToUSB.o
+                0x00000f3a                _Z23checkForNullControllersv
+ .text._Z17updateControllersv
+                0x00000f64      0x6f2 DualCubeToUSB.o
+                0x00000f64                _Z17updateControllersv
+ .text.main     0x00001656       0xcc DualCubeToUSB.o
+                0x00001656                main
+ .text._GLOBAL__sub_I_gPad1
+                0x00001722       0x12 DualCubeToUSB.o
+ .text._ZN8Gamepad_C2Ev
+                0x00001734       0x1e USB Code/GamepadHID.o
+                0x00001734                _ZN8Gamepad_C2Ev
+                0x00001734                _ZN8Gamepad_C1Ev
+ .text._ZN8Gamepad_14packAxisPacketEiiiiii
+                0x00001752       0xd4 USB Code/GamepadHID.o
+                0x00001752                _ZN8Gamepad_14packAxisPacketEiiiiii
+ .text._ZN8Gamepad_14setController2Ev
+                0x00001826        0x8 USB Code/GamepadHID.o
+                0x00001826                _ZN8Gamepad_14setController2Ev
+ .text._ZN8Gamepad_7setAxesEy
+                0x0000182e       0x1c USB Code/GamepadHID.o
+                0x0000182e                _ZN8Gamepad_7setAxesEy
+ .text._ZN8Gamepad_10setButtonsEm
+                0x0000184a        0xc USB Code/GamepadHID.o
+                0x0000184a                _ZN8Gamepad_10setButtonsEm
+ .text._ZN8Gamepad_6updateEv
+                0x00001856       0x24 USB Code/GamepadHID.o
+                0x00001856                _ZN8Gamepad_6updateEv
+ .text._ZN8Gamepad_12setAxesBlankEv
+                0x0000187a       0x1c USB Code/GamepadHID.o
+                0x0000187a                _ZN8Gamepad_12setAxesBlankEv
+ .text._ZN8Gamepad_15setButtonsBlankEv
+                0x00001896        0xc USB Code/GamepadHID.o
+                0x00001896                _ZN8Gamepad_15setButtonsBlankEv
+ .text._GLOBAL__sub_I_Gamepad
+                0x000018a2        0xa USB Code/GamepadHID.o
+ .text._Z16HID_GetInterfacePhh
+                0x000018ac       0x34 USB Code/HID.o
+                0x000018ac                _Z16HID_GetInterfacePhh
+ .text._Z17HID_GetDescriptorih
+                0x000018e0       0x24 USB Code/HID.o
+                0x000018e0                _Z17HID_GetDescriptorih
+ .text._Z14HID_SendReporthPKvi
+                0x00001904       0x42 USB Code/HID.o
+                0x00001904                _Z14HID_SendReporthPKvi
+ .text._Z9HID_SetupR5Setup
+                0x00001946       0x3e USB Code/HID.o
+                0x00001946                _Z9HID_SetupR5Setup
+ .text._Z4RecvPVhh
+                0x00001984       0x28 USB Code/USBCore.o
+                0x00001984                _Z4RecvPVhh
+ .text._Z13USB_SendSpaceh
+                0x000019ac       0x22 USB Code/USBCore.o
+                0x000019ac                _Z13USB_SendSpaceh
+ .text._Z8USB_SendhPKvi
+                0x000019ce      0x16c USB Code/USBCore.o
+                0x000019ce                _Z8USB_SendhPKvi
+ .text._Z11InitControli
+                0x00001b3a       0x16 USB Code/USBCore.o
+                0x00001b3a                _Z11InitControli
+ .text._Z15USB_SendControlhPKvi
+                0x00001b50       0xac USB Code/USBCore.o
+                0x00001b50                _Z15USB_SendControlhPKvi
+ .text._Z14SendInterfacesh
+                0x00001bfc       0x22 USB Code/USBCore.o
+                0x00001bfc                _Z14SendInterfacesh
+ .text._Z5setDCh
+                0x00001c1e        0x6 USB Code/USBCore.o
+                0x00001c1e                _Z5setDCh
+ .text.__vector_11
+                0x00001c24      0x25c USB Code/USBCore.o
+                0x00001c24                __vector_11
+ .text.__vector_10
+                0x00001e80       0x82 USB Code/USBCore.o
+                0x00001e80                __vector_10
+ .text.libgcc.div
+                0x00001f02       0x2e c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_divmodsi4.o)
+                0x00001f02                __divmodsi4
+ .text.libgcc.div
+                0x00001f30       0x10 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_negsi2.o)
+                0x00001f30                __negsi2
+ .text.libgcc.mul
+                0x00001f40       0x1e c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_umulhisi3.o)
+                0x00001f40                __umulhisi3
+ .text.libgcc.mul
+                0x00001f5e       0x16 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_muluhisi3.o)
+                0x00001f5e                __muluhisi3
+ .text.libgcc.builtins
+                0x00001f74       0x32 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ashldi3.o)
+                0x00001f74                __ashldi3
+ .text.libgcc.div
+                0x00001fa6       0x44 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodsi4.o)
+                0x00001fa6                __udivmodsi4
+ .text.libgcc   0x00001fea        0xc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_tablejump.o)
+                0x00001fea                __tablejump2__
+                0x00001fee                __tablejump__
+ .text.avr-libc
+                0x00001ff6       0x1a c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libc.a(memcmp.o)
+                0x00001ff6                memcmp
+                0x00002010                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00002010        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_exit.o)
+                0x00002010                _exit
+                0x00002010                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00002010        0x4 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00002014                _etext = .
+
+.data           0x00800100       0x1c load address 0x00002014
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+ .data          0x00800100        0x0 Controller Code/gamecube.o
+ .data          0x00800100        0x0 Controller Code/gcn64_protocol.o
+ .data          0x00800100        0x0 Controller Code/gcn64_protocol2.o
+ .data          0x00800100        0x0 Controller Code/n64.o
+ .data          0x00800100        0x0 DualCubeToUSB.o
+ .data          0x00800100        0x0 USB Code/CDC.o
+ .data          0x00800100        0x0 USB Code/GamepadHID.o
+ .data          0x00800100        0x0 USB Code/HID.o
+ .data          0x00800100        0x0 USB Code/USBCore.o
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_mulsi3.o)
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_negsi2.o)
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_exit.o)
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_copy_data.o)
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ctors.o)
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_usmulhisi3.o)
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_muluhisi3.o)
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ashldi3.o)
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_tablejump.o)
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libc.a(memcmp.o)
+ *(.data*)
+ .data.GamecubeGamepad
+                0x00800100        0xc Controller Code/gamecube.o
+                0x00800100                GamecubeGamepad
+ .data.N64Gamepad
+                0x0080010c        0xc Controller Code/n64.o
+                0x0080010c                N64Gamepad
+ .data.n64_rumble_state
+                0x00800118        0x1 Controller Code/n64.o
+ .data._hid_idle
+                0x00800119        0x1 USB Code/HID.o
+                0x00800119                _hid_idle
+ .data._hid_protocol
+                0x0080011a        0x1 USB Code/HID.o
+                0x0080011a                _hid_protocol
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x0080011c                . = ALIGN (0x2)
+ *fill*         0x0080011b        0x1 
+                0x0080011c                _edata = .
+                0x0080011c                PROVIDE (__data_end, .)
+
+.bss            0x0080011c      0x16c
+                0x0080011c                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.gc_analog_lr_disable
+                0x0080011c        0x2 Controller Code/gamecube.o
+ .bss.centers   0x0080011e        0xc Controller Code/gamecube.o
+ .bss.last_sent_report
+                0x0080012a        0x8 Controller Code/gamecube.o
+ .bss.last_built_report
+                0x00800132        0x8 Controller Code/gamecube.o
+ .bss.last_sent_report
+                0x0080013a        0x8 Controller Code/n64.o
+ .bss.last_built_report
+                0x00800142        0x8 Controller Code/n64.o
+ .bss.enable2ndController
+                0x0080014a        0x2 DualCubeToUSB.o
+                0x0080014a                enable2ndController
+ .bss.error_count2
+                0x0080014c        0x2 DualCubeToUSB.o
+                0x0080014c                error_count2
+ .bss.error_count
+                0x0080014e        0x2 DualCubeToUSB.o
+                0x0080014e                error_count
+ .bss.gPad2     0x00800150        0xd DualCubeToUSB.o
+                0x00800150                gPad2
+ .bss.gPad1     0x0080015d        0xd DualCubeToUSB.o
+                0x0080015d                gPad1
+ .bss._ZL11curGamepad2
+                0x0080016a        0x2 DualCubeToUSB.o
+ .bss._ZL10curGamepad
+                0x0080016c        0x2 DualCubeToUSB.o
+ .bss.Gamepad   0x0080016e        0xd USB Code/GamepadHID.o
+                0x0080016e                Gamepad
+ .bss._cdcComposite
+                0x0080017b        0x1 USB Code/USBCore.o
+                0x0080017b                _cdcComposite
+ .bss._cend     0x0080017c        0x2 USB Code/USBCore.o
+                0x0080017c                _cend
+ .bss._cmark    0x0080017e        0x2 USB Code/USBCore.o
+                0x0080017e                _cmark
+ .bss._usbConfiguration
+                0x00800180        0x1 USB Code/USBCore.o
+                0x00800180                _usbConfiguration
+ .bss.RxLEDPulse
+                0x00800181        0x1 USB Code/USBCore.o
+                0x00800181                RxLEDPulse
+ .bss.TxLEDPulse
+                0x00800182        0x1 USB Code/USBCore.o
+                0x00800182                TxLEDPulse
+ .bss._ZL2dC    0x00800183        0x1 USB Code/USBCore.o
+ *(COMMON)
+ COMMON         0x00800184      0x104 Controller Code/gcn64_protocol.o
+                0x00800184                gcn64_workbuf
+                0x00800288                PROVIDE (__bss_end, .)
+                0x00002014                __data_load_start = LOADADDR (.data)
+                0x00002030                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800288        0x0
+                0x00800288                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800288                PROVIDE (__noinit_end, .)
+                0x00800288                _end = .
+                0x00800288                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 Controller Code/gamecube.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000000       0x31 Controller Code/gcn64_protocol.o
+ .comment       0x00000000       0x31 Controller Code/gcn64_protocol2.o
+ .comment       0x00000000       0x31 Controller Code/n64.o
+ .comment       0x00000000       0x31 DualCubeToUSB.o
+ .comment       0x00000000       0x31 USB Code/CDC.o
+ .comment       0x00000000       0x31 USB Code/GamepadHID.o
+ .comment       0x00000000       0x31 USB Code/HID.o
+ .comment       0x00000000       0x31 USB Code/USBCore.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x2f0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x50 Controller Code/gamecube.o
+ .debug_aranges
+                0x00000050       0x38 Controller Code/gcn64_protocol.o
+ .debug_aranges
+                0x00000088       0x38 Controller Code/gcn64_protocol2.o
+ .debug_aranges
+                0x000000c0       0x48 Controller Code/n64.o
+ .debug_aranges
+                0x00000108       0x58 DualCubeToUSB.o
+ .debug_aranges
+                0x00000160       0x18 USB Code/CDC.o
+ .debug_aranges
+                0x00000178       0x80 USB Code/GamepadHID.o
+ .debug_aranges
+                0x000001f8       0x38 USB Code/HID.o
+ .debug_aranges
+                0x00000230       0xc0 USB Code/USBCore.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x4b06
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5fe Controller Code/gamecube.o
+ .debug_info    0x000005fe      0x43b Controller Code/gcn64_protocol.o
+ .debug_info    0x00000a39      0x429 Controller Code/gcn64_protocol2.o
+ .debug_info    0x00000e62      0x52b Controller Code/n64.o
+ .debug_info    0x0000138d     0x13d1 DualCubeToUSB.o
+ .debug_info    0x0000275e       0x8b USB Code/CDC.o
+ .debug_info    0x000027e9      0x726 USB Code/GamepadHID.o
+ .debug_info    0x00002f0f      0x62a USB Code/HID.o
+ .debug_info    0x00003539     0x15cd USB Code/USBCore.o
+
+.debug_abbrev   0x00000000     0x175c
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x27e Controller Code/gamecube.o
+ .debug_abbrev  0x0000027e      0x20c Controller Code/gcn64_protocol.o
+ .debug_abbrev  0x0000048a      0x208 Controller Code/gcn64_protocol2.o
+ .debug_abbrev  0x00000692      0x248 Controller Code/n64.o
+ .debug_abbrev  0x000008da      0x3f5 DualCubeToUSB.o
+ .debug_abbrev  0x00000ccf       0x40 USB Code/CDC.o
+ .debug_abbrev  0x00000d0f      0x2cd USB Code/GamepadHID.o
+ .debug_abbrev  0x00000fdc      0x1cf USB Code/HID.o
+ .debug_abbrev  0x000011ab      0x5b1 USB Code/USBCore.o
+
+.debug_line     0x00000000     0x166a
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x31a Controller Code/gamecube.o
+ .debug_line    0x0000031a      0x1d9 Controller Code/gcn64_protocol.o
+ .debug_line    0x000004f3      0x1ee Controller Code/gcn64_protocol2.o
+ .debug_line    0x000006e1      0x30f Controller Code/n64.o
+ .debug_line    0x000009f0      0x374 DualCubeToUSB.o
+ .debug_line    0x00000d64       0xc4 USB Code/CDC.o
+ .debug_line    0x00000e28      0x1d2 USB Code/GamepadHID.o
+ .debug_line    0x00000ffa      0x146 USB Code/HID.o
+ .debug_line    0x00001140      0x52a USB Code/USBCore.o
+
+.debug_frame    0x00000000      0x80c
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xa8 Controller Code/gamecube.o
+ .debug_frame   0x000000a8       0x78 Controller Code/gcn64_protocol.o
+ .debug_frame   0x00000120       0x78 Controller Code/gcn64_protocol2.o
+ .debug_frame   0x00000198       0xa8 Controller Code/n64.o
+ .debug_frame   0x00000240      0x138 DualCubeToUSB.o
+ .debug_frame   0x00000378      0x17c USB Code/GamepadHID.o
+ .debug_frame   0x000004f4       0x78 USB Code/HID.o
+ .debug_frame   0x0000056c      0x2a0 USB Code/USBCore.o
+
+.debug_str      0x00000000     0x11b7
+ *(.debug_str)
+ .debug_str     0x00000000      0x2b9 Controller Code/gamecube.o
+                                0x308 (size before relaxing)
+ .debug_str     0x000002b9      0x14d Controller Code/gcn64_protocol.o
+                                0x2e2 (size before relaxing)
+ .debug_str     0x00000406       0xb4 Controller Code/gcn64_protocol2.o
+                                0x2e2 (size before relaxing)
+ .debug_str     0x000004ba       0x87 Controller Code/n64.o
+                                0x2e3 (size before relaxing)
+ .debug_str     0x00000541      0x452 DualCubeToUSB.o
+                                0x65e (size before relaxing)
+ .debug_str     0x00000993       0x14 USB Code/CDC.o
+                                0x1b3 (size before relaxing)
+ .debug_str     0x000009a7       0x6f USB Code/GamepadHID.o
+                                0x44f (size before relaxing)
+ .debug_str     0x00000a16      0x278 USB Code/HID.o
+                                0x4ae (size before relaxing)
+ .debug_str     0x00000c8e      0x529 USB Code/USBCore.o
+                                0x89a (size before relaxing)
+
+.debug_loc      0x00000000     0x370f
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x403 Controller Code/gamecube.o
+ .debug_loc     0x00000403      0x541 Controller Code/gcn64_protocol.o
+ .debug_loc     0x00000944      0x524 Controller Code/gcn64_protocol2.o
+ .debug_loc     0x00000e68      0x2a6 Controller Code/n64.o
+ .debug_loc     0x0000110e      0xdcc DualCubeToUSB.o
+ .debug_loc     0x00001eda      0x59e USB Code/GamepadHID.o
+ .debug_loc     0x00002478      0x33d USB Code/HID.o
+ .debug_loc     0x000027b5      0xf5a USB Code/USBCore.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x408
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x40 Controller Code/gamecube.o
+ .debug_ranges  0x00000040       0x68 Controller Code/gcn64_protocol.o
+ .debug_ranges  0x000000a8       0x68 Controller Code/gcn64_protocol2.o
+ .debug_ranges  0x00000110       0x38 Controller Code/n64.o
+ .debug_ranges  0x00000148       0x48 DualCubeToUSB.o
+ .debug_ranges  0x00000190       0x70 USB Code/GamepadHID.o
+ .debug_ranges  0x00000200       0x28 USB Code/HID.o
+ .debug_ranges  0x00000228      0x1e0 USB Code/USBCore.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(DualCubeToUSB.elf elf32-avr)
+LOAD linker stubs
